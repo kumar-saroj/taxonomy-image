@@ -2,6 +2,8 @@
 
 Create  a js directory inside the taxonomy-image folder than upload this term-image.js there.
 
+# Add your term name (term-image.php)
+private $taxonomies = array( 'tour_cat' );
 
 #call Term image
 
